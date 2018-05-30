@@ -1,0 +1,6 @@
+[package]
+name = "gzip-rs"
+version = "0.0.1"
+authors = ["Shinichi Kogai <kogai0121@gmail.com>"]
+
+[dependencies]
